@@ -46,7 +46,7 @@ nav a {
   align-items: center;
   height: 700px;
   width: 1200px;
-  background-image: url("/Users/Lorena/Proyectos/CODE_Projects/TeaCozy/resources/images/img-mission-background.jpg");
+  background-image: url("images/img-mission-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
@@ -120,7 +120,7 @@ nav a {
     align-items: center;
     width: 1200px;
     height: 500px;
-    background-image: url("/Users/Lorena/Proyectos/CODE_Projects/TeaCozy/resources/images/img-locations-background.jpg");
+    background-image: url("images/img-locations-background.jpg");
     background-size: cover;
     margin: 0 auto;
   }
